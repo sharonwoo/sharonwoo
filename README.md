@@ -1,6 +1,6 @@
 🔭 I’m currently working on getting better at open source
 
-👯 I’m looking to collaborate on a [recruitment analytics project - know your worth](https://public.tableau.com/profile/sharonwoo#!/vizhome/upload_16013495928040/Final)
+👯 I’m looking to collaborate on a [analytics project - know your worth](https://public.tableau.com/profile/sharonwoo#!/vizhome/upload_16013495928040/Final)
 
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
