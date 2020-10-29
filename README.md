@@ -4,7 +4,7 @@
 
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
-[![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
