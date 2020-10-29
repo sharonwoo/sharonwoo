@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on getting better at open source
 - 👯 I’m looking to collaborate on a [recruitment analytics project](https://public.tableau.com/profile/sharonwoo#!/vizhome/upload_16013495928040/Final)
-- ⚡ Fun fact: I once played a D&D halfling monk / beer cultist because imperial stouts are da bomb (Ten Fidy / Trappist 10)
+- ⚡ Fun fact: I once played a D&D halfling monk / beer cultist because minmaxing and imperial stouts are da bomb (Ten Fidy / Trappist 10)
 
 [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
