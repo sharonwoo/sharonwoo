@@ -1,4 +1,4 @@
-🔭 I’m currently working on getting better at open source
+🔭 I’m currently working on getting better at open source (Pandas, Prophet, sklearncrfsuite, now learning Airflow)
 
 👯 I’m looking to collaborate on a [analytics project - know your worth](https://public.tableau.com/profile/sharonwoo#!/vizhome/upload_16013495928040/Final)
 
