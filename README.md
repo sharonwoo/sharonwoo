@@ -1,6 +1,6 @@
 🔭 I’m currently picking up Golang
 
-👯 I’m looking to collaborate on a [analytics project - know your worth](https://public.tableau.com/profile/sharonwoo#!/vizhome/upload_16013495928040/Final)
+👯 I’m looking to collaborate on a [analytics project - know your worth](https://www.youtube.com/watch?v=FBkTt9GJbxM)
 
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
