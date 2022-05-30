@@ -1,7 +1,3 @@
-🔭 I’m currently picking up Golang 
-
-👯 I’m building out v2 of [analytics project - know your worth](https://www.youtube.com/watch?v=FBkTt9GJbxM) with Django + Postgres
-
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
 🌱 Work account: [@sharonpanda](https://github.com/sharonpanda)
