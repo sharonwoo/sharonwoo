@@ -1,6 +1,10 @@
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
-🌱 Work account: [@sharonpanda](https://github.com/sharonpanda)
+🤗 CV: (about.iam.computer)[https://about.iam.computer]
+
+🐱‍💻 Calendly: (cat therapy)[https://calendly.com/sharonwoo]
+
+🌱 Work account: [@sharonpanda](https://github.com/sharonpanda) [@viki-sharon](https://github.com/viki-sharon)
 
 [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
