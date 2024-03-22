@@ -1,7 +1,5 @@
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
-🤗 CV: [about.iam.computer](https://about.iam.computer)
-
 🐱‍💻 Calendly: [cat therapy](https://calendly.com/sharonwoo)
 
 🌱 Work account: [@sharonpanda](https://github.com/sharonpanda)
