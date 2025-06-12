@@ -4,7 +4,7 @@
 
 🤔 Old work account: [@sharonpanda](https://github.com/sharonpanda)
 
-🌱 Linux Mint + k3s, figuring out the pi-hole Helm chart, CCNA materials
+🌱 [Homelab](https://serversandbox.github.io/index.html) running k3s as an excuse to learn Linux internals
 
 [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
