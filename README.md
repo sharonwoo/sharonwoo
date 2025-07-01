@@ -4,7 +4,7 @@
 
 🤔 Old work account: [@sharonpanda](https://github.com/sharonpanda)
 
-🌱 [Homelab](https://serversandbox.github.io/index.html) running k3s as an excuse to learn Linux internals
+🌱 [Homelab](https://serversandbox.github.io/index.html) running k3s (dns sink + media server + toy apps)
 
 🔭 In progress: [AWS hosted data pipeline + Github actions + TF CICD](https://github.com/users/sharonwoo/projects/3)
 
