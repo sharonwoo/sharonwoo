@@ -4,7 +4,7 @@
 
 🤔 Old work account: [@sharonpanda](https://github.com/sharonpanda)
 
-🌱 [k3s homelab](https://serversandbox.github.io/index.html) running Jellyfin, DNS sink, etc and exposed through Tailscale
+🌱 [k3s homelab](https://serversandbox.github.io/index.html) running Jellyfin, DNS sink, etc and exposed through Tailscale Operator on k8s
 
 🔭 In progress: [AWS hosted data pipeline + Github actions + TF CICD](https://github.com/users/sharonwoo/projects/3) + [AWS SAA-C03](https://github.com/sharonwoo/aws-saa-c03-2025)
 
