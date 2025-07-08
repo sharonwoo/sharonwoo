@@ -8,7 +8,7 @@
 
 🔭 In progress: [AWS hosted data pipeline + Github actions + TF CICD](https://github.com/users/sharonwoo/projects/3) + [AWS SAA-C03](https://github.com/sharonwoo/aws-saa-c03-2025)
 
-[![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sharonwoo/sharonwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
