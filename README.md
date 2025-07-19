@@ -10,6 +10,8 @@
 
 [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="99f61cd2-0602-4343-b407-f1384521147c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--
 **sharonwoo/sharonwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
