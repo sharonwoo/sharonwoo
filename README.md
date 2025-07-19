@@ -4,7 +4,7 @@
 
 🤔 Old work account: [@sharonpanda](https://github.com/sharonpanda)
 
-🌱 [k3s homelab](https://github.com/serversandbox) running Jellyfin, DNS sink etc, exposed through Tailscale Operator. All SSD NAS running TrueNAS Scale
+🌱 [k3s homelab](https://github.com/serversandbox) running Jellyfin, DNS sink etc, exposed through Tailscale Operator; all SSD NAS running TrueNAS Scale Fangtooth
 
 🔭 In progress: [AWS hosted data pipeline + Github actions + TF CICD](https://github.com/users/sharonwoo/projects/3) + [AWS SAA-C03](https://github.com/sharonwoo/aws-saa-c03-2025)
 
