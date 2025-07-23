@@ -1,7 +1,5 @@
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
-🐱‍💻 Calendly: [cat therapy](https://calendly.com/sharonwoo)
-
 🤔 Old work account: [@sharonpanda](https://github.com/sharonpanda)
 
 🌱 [k3s homelab](https://github.com/serversandbox) running Jellyfin, DNS sink etc, exposed through Tailscale Operator; all SSD NAS running TrueNAS Scale Fangtooth
