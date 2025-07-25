@@ -6,7 +6,7 @@
 
 [![walking da talk](saa-168.png)](https://www.credly.com/badges/99f61cd2-0602-4343-b407-f1384521147c/public_url) [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true&show_icons=true&theme=transparent&rank_icon=percentile&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-💬 Ask me about k8s cluster migration -O-
+💬 Ask me about k8s cluster migration OTL
 
 <!--
 **sharonwoo/sharonwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
