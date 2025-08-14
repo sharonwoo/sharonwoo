@@ -1,6 +1,6 @@
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
-🌱 [k3s homelab](https://github.com/serversandbox) running Proxmox/k3s with Jellyfin, DNS sink etc, exposed through Tailscale Operator; all SSD NAS running TrueNAS Scale Fangtooth
+🌱 [homelab](https://github.com/serversandbox) running Proxmox/k3s with Jellyfin, DNS sink etc, exposed through Tailscale Operator; all SSD NAS running TrueNAS Scale Fangtooth
 
 🔭 In progress: [AWS hosted data pipeline + Github actions + TF CICD](https://github.com/users/sharonwoo/projects/3) + AWS sysops associate
 
