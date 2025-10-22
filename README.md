@@ -1,6 +1,6 @@
 ⚡ Fun fact: My favourite color is black, like a good imperial stout
 
-🌱 [homelab](https://github.com/serversandbox) running Proxmox/k3s with Immich, Jellyfin, Adguard Home, Syncthing, Prometheus, Grafana exposed through Tailscale Operator; all SSD NAS running TrueNAS Scale Fangtooth
+🌱 [homelab](https://github.com/serversandbox) running Proxmox/k3s with Immich, Jellyfin, Adguard Home, Syncthing, Copyparty, Prometheus, Grafana exposed through Tailscale Operator; all SSD NAS running TrueNAS Scale Fangtooth
 
 [![walking da talk](saa-168.png)](https://www.credly.com/badges/99f61cd2-0602-4343-b407-f1384521147c/public_url) [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sharonwoo&count_private=true&show_icons=true&theme=transparent&rank_icon=percentile&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
